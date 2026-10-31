@@ -1,17 +1,14 @@
 # BSH-Frontend
 
-## Overview
-
-No repository description is currently provided.
+Frontend for the IEM BSH Department website, with reusable UI components and Tailwind-based styling configuration.
 
 ## Technology
 
-JavaScript, CSS, HTML, Node.js
+- JavaScript
+- HTML
+- CSS
+- React tooling
 
-## Repository contents
+## Run
 
-`.gitignore`, `components.json`, `craco.config.js`, `jsconfig.json`, `package-lock.json`, `package.json`, `postcss.config.js`, `public`, `src`, `tailwind.config.js`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Install dependencies and use the scripts in `package.json` to start or build the frontend.
